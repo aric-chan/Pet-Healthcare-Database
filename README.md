@@ -1,4 +1,4 @@
-# 🐾 Pet Healthcare Database
+# Pet Healthcare Database
 
 A full-stack pet healthcare management system for pet owners to track pets, veterinary records, feeding schedules, vaccinations, and activities.
 
